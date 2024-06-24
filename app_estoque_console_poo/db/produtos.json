@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "nome": "Arroz Branco",
+    "descricao": "Arroz soltinho melhor do mundo",
+    "preco": 14.33,
+    "quantidade": 68
+  },
+  {
+      "id": 2,
+      "nome": "Milho verde",
+      "descricao": "Milho gostosinho",
+      "preco": 4.5,
+      "quantidade": 30
+  },
+
+  {
+    "id": 3,
+    "nome": "Aipim",
+    "descricao": "A melhor mandioca da região é aqui",
+    "preco": 12.0,
+    "quantidade": 40
+  }
+]
